@@ -1,0 +1,23 @@
+# Django
+*.sqlite3
+*.pyc
+__pycache__/
+migrations/
+
+# Virtual Environment
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# Media and Static Files
+media/
+staticfiles/
